@@ -1,2 +1,2 @@
-﻿# stock-i
+
 # stock
